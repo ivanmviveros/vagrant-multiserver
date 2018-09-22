@@ -12,4 +12,8 @@ Incluye:
 - Multiples maquinas en un Vagrantfile
 
 
+Video demostrativo: https://asciinema.org/a/Thd3rfqKWIGqtKZp6uwMrMOx6
+
+
+
 ### Por: Ivan Miguel Viveros Rayo
